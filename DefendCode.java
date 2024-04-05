@@ -1,5 +1,5 @@
 /**
- * Group 6 Members: Ahmed Mohamed, Abdulrazak Hassan
+ * Ahmed Mohamed
  */
 
 import java.io.File;
